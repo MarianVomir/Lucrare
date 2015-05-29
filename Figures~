@@ -1,8 +1,29 @@
 Figure - Caption - Page
 
+(*) trebuie schimbate
 
 Figure 3.1 - Phases of a compiler
 Figure 4.1 - Use Case Diagram
-
+Figure 4.2 - Sequence Diagram for the Open Existing Project Use Case
+Figure 4.3 - Simple example of the Factory design pattern (*)
+Figure 4.4 - The design of the Editor
+Figure 4.5 - The design of the Project Explorer (*)
+Figure 4.6 - The design of the Project Builder and the Project Runner (*)
+Figure 4.7 - Main screen of the application (* probabil)
+Figure 4.8 - The menu bar
+Figure 4.9 - A tab with an unsaved file
+Figure 4.10 - Selecting multiple files to open
+Figure 4.11 - Selected files opened in the editor
+Figure 4.12 - A blank project creation form (*)
+Figure 4.13 - A filled project creation form (*)
+Figure 4.14 - The structure of the project folder
+Figure 4.15 - Sample project to be built
+Figure 4.16 - Sample build output (*)
+Figure 4.17 - Sample clean output
+Figure 4.18 - Sample rebuild output (*)
+Figure 4.19 - Example of a project running
+Figure 4.20 - An error in the code
+Figure 4.21 - Build failing because of a syntax error (*)
+Figure 4.22 - The Editor taking up all available space (*)
 
 Table 4.1 - Use Case Description
